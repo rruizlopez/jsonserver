@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karen",
+      "empresa": "Codigo Con Juan",
+      "email": "karen@juan.com",
+      "telefono": "138198313",
+      "notas": "qqq",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Rodrigo",
+      "empresa": "Rodrigo Alberto Ruiz Lopez",
+      "email": "ruizlopezra@gmail.com",
+      "telefono": "03855025245",
+      "notas": "123",
+      "id": 6
+    },
+    {
+      "nombre": "Jessica Ivana",
+      "empresa": "Rodrigo Alberto Ruiz Lopez",
+      "email": "jessi.isequilla@gmail.com",
+      "telefono": "03855303793",
+      "notas": "123123",
+      "id": 7
+    }
+  ]
+}
